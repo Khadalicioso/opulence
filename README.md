@@ -33,4 +33,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Khadalicioso]
+Made with ❤️ by [Khadalicioso](https://github.com/khadalicioso)
